@@ -1,8 +1,9 @@
-gdown
+Flask
+flask-cors
+numpy
 pillow
-flask
-tensorflow
+tensorflow-cpu==2.20.0
 python-dotenv
 requests
-gunicorn
-numpy
+gdown
+
