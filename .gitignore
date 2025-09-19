@@ -1,3 +1,4 @@
 .env
 *.pyc
 __pycache__/
+"seed_detector.h5" 
