@@ -1,0 +1,7 @@
+flask
+tensorflow
+pillow
+python-dotenv
+gunicorn
+requests
+numpy
